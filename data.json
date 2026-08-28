@@ -1,16 +1,56 @@
 {
-  "name": "sw-neuespieler",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "discord.js": "^14.27.0"
-  }
+    "items": [
+        {
+            "name": "Diamant Schwert",
+            "available": true
+        },
+        {
+            "name": "Diamant Spitzhacke",
+            "available": true
+        },
+        {
+            "name": "Diamant Axt",
+            "available": true
+        },
+        {
+            "name": "Diamand Schaufel",
+            "available": true
+        },
+        {
+            "name": "Diamanten",
+            "available": false
+        },
+        {
+            "name": "Holz",
+            "available": false
+        },
+        {
+            "name": "Steak",
+            "available": false
+        },
+        {
+            "name": "Erde",
+            "available": true
+        },
+        {
+            "name": "Stein",
+            "available": true
+        },
+        {
+            "name": "Pfeile",
+            "available": true
+        }
+    ],
+    "starterkit": [
+        "⚔️ 1x Diamantschwert",
+        "⛏️ 1x Diamantspitzhacke",
+        "🪓 1x Diamantaxt",
+        "🧹 1x Diamantschaufel",
+        "💎 5x Diamanten",
+        "🪵 64x Holz",
+        "🥩 64x Steak",
+        "🟫 64x Erde",
+        "🪨 64x Stein",
+        "🏹 64x Pfeile"
+    ]
 }
